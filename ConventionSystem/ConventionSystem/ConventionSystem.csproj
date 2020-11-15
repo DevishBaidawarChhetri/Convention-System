@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11669EC2-854F-4EF6-8C40-B46DD1AD2662}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ConventionSystem</RootNamespace>
+    <AssemblyName>ConventionSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAttendee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAttendee.Designer.cs">
+      <DependentUpon>AddAttendee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEvent.Designer.cs">
+      <DependentUpon>AddEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRoom.Designer.cs">
+      <DependentUpon>AddRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSeminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSeminar.Designer.cs">
+      <DependentUpon>AddSeminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStall.Designer.cs">
+      <DependentUpon>AddStall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendee.cs" />
+    <Compile Include="AttendeeSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttendeeSchedule.Designer.cs">
+      <DependentUpon>AttendeeSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConventionSystemContext.cs" />
+    <Compile Include="ConventionManager.cs" />
+    <Compile Include="EditAttendee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditAttendee.Designer.cs">
+      <DependentUpon>EditAttendee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditManager.Designer.cs">
+      <DependentUpon>EditManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EventSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EventSchedule.Designer.cs">
+      <DependentUpon>EventSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AttendeeHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AttendeeHome.Designer.cs">
+      <DependentUpon>AttendeeHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerHome.Designer.cs">
+      <DependentUpon>ManagerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoomSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RoomSchedule.Designer.cs">
+      <DependentUpon>RoomSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seminar.cs" />
+    <Compile Include="SeminarSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeminarSchedule.Designer.cs">
+      <DependentUpon>SeminarSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Signup.Designer.cs">
+      <DependentUpon>Signup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stall.cs" />
+    <Compile Include="Event.cs" />
+    <Compile Include="Room.cs" />
+    <Compile Include="AttendeePerEvent.cs" />
+    <Compile Include="AttendeePerStall.cs" />
+    <Compile Include="PresenterPerSeminar.cs" />
+    <Compile Include="AudiencePerSeminar.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StallSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StallSchedule.Designer.cs">
+      <DependentUpon>StallSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowAttendee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowAttendee.Designer.cs">
+      <DependentUpon>ShowAttendee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowEvent.Designer.cs">
+      <DependentUpon>ShowEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowRoom.Designer.cs">
+      <DependentUpon>ShowRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowSeminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowSeminar.Designer.cs">
+      <DependentUpon>ShowSeminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowStall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowStall.Designer.cs">
+      <DependentUpon>ShowStall.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddAttendee.resx">
+      <DependentUpon>AddAttendee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEvent.resx">
+      <DependentUpon>AddEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRoom.resx">
+      <DependentUpon>AddRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSeminar.resx">
+      <DependentUpon>AddSeminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStall.resx">
+      <DependentUpon>AddStall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttendeeSchedule.resx">
+      <DependentUpon>AttendeeSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditAttendee.resx">
+      <DependentUpon>EditAttendee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditManager.resx">
+      <DependentUpon>EditManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EventSchedule.resx">
+      <DependentUpon>EventSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttendeeHome.resx">
+      <DependentUpon>AttendeeHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerHome.resx">
+      <DependentUpon>ManagerHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RoomSchedule.resx">
+      <DependentUpon>RoomSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeminarSchedule.resx">
+      <DependentUpon>SeminarSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Signup.resx">
+      <DependentUpon>Signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StallSchedule.resx">
+      <DependentUpon>StallSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowAttendee.resx">
+      <DependentUpon>ShowAttendee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowEvent.resx">
+      <DependentUpon>ShowEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowRoom.resx">
+      <DependentUpon>ShowRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowSeminar.resx">
+      <DependentUpon>ShowSeminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowStall.resx">
+      <DependentUpon>ShowStall.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

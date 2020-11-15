@@ -1,0 +1,144 @@
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csprojAssemblyReference.cache
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Login.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Properties.Resources.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.GenerateResource.cache
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.CoreCompileInputs.cache
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.exe.config
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.exe
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.pdb
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.dll
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.xml
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddAttendee.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.HomeAttendee.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.HomeManager.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.CopyComplete
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.exe
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.pdb
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Signup.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddSeminar.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewSeminar.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.SeminarSchedule.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AttendeeSchedule.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EditManager.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ChangePasswordAttendee.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EditAttendee.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddEvent.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddRoom.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddStall.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EventSchedule.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.StallSchedule.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewAttendee.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewEvent.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewRoom.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewStall.resources
+E:\assignment\l5dc\adi\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.RoomSchedule.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csprojAssemblyReference.cache
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddAttendee.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddEvent.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddRoom.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddSeminar.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddStall.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AttendeeSchedule.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ChangePassword.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EditAttendee.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EditManager.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EventSchedule.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AttendeeHome.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ManagerHome.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Login.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Properties.Resources.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.RoomSchedule.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.SeminarSchedule.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Signup.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.StallSchedule.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewAttendee.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewEvent.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewRoom.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewSeminar.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ViewStall.resources
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.GenerateResource.cache
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.CoreCompileInputs.cache
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.exe
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.pdb
+E:\assignment\new\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.exe.config
+E:\assignment\new\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.exe
+E:\assignment\new\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.pdb
+E:\assignment\new\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.dll
+E:\assignment\new\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\assignment\new\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.xml
+E:\assignment\new\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\assignment\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.CopyComplete
+D:\new\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.exe.config
+D:\new\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.exe
+D:\new\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.pdb
+D:\new\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.dll
+D:\new\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\new\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.xml
+D:\new\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csprojAssemblyReference.cache
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddAttendee.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddEvent.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddRoom.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddSeminar.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddStall.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AttendeeSchedule.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ChangePassword.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EditAttendee.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EditManager.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EventSchedule.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AttendeeHome.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ManagerHome.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Login.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Properties.Resources.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.RoomSchedule.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.SeminarSchedule.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Signup.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.StallSchedule.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowAttendee.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowEvent.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowRoom.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowSeminar.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowStall.resources
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.GenerateResource.cache
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.CoreCompileInputs.cache
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.CopyComplete
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.exe
+D:\new\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.pdb
+D:\Convention System\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.exe.config
+D:\Convention System\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.exe
+D:\Convention System\ConventionSystem\ConventionSystem\bin\Debug\ConventionSystem.pdb
+D:\Convention System\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.dll
+D:\Convention System\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Convention System\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.xml
+D:\Convention System\ConventionSystem\ConventionSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csprojAssemblyReference.cache
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddAttendee.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddEvent.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddRoom.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddSeminar.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AddStall.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AttendeeSchedule.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ChangePassword.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EditAttendee.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EditManager.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.EventSchedule.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.AttendeeHome.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ManagerHome.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Login.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Properties.Resources.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.RoomSchedule.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.SeminarSchedule.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.Signup.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.StallSchedule.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowAttendee.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowEvent.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowRoom.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowSeminar.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.ShowStall.resources
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.GenerateResource.cache
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.CoreCompileInputs.cache
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.csproj.CopyComplete
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.exe
+D:\Convention System\ConventionSystem\ConventionSystem\obj\Debug\ConventionSystem.pdb
